@@ -2,17 +2,18 @@
 $today = date("Y-m-d H:i:s");
 $hackathon_date = "2025-02-5 23:59:59.0";
 $autumn_date = "2025-10-27 23:59:59.0";
-
-if($today<$autumn_date){
+$oshw_hackathon_date = "2026-16-03 23:59:59.0";
+if($today<$oshw_hackathon_date){
 echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/nice-bar.css" />     
           <link rel="stylesheet" type="text/css" href="https://fossee.in/data/banner/css/lightbox.css" /> 
            <script type="text/javascript" src="https://fossee.in/data/banner/js/nice-bar.js"></script>
 
            <div class="nice-bar" style="margin-bottom:5px; border-bottom:none; width:90%; background-color:transparent;">
 
-           <a  href="https://esim-hackathon-2025.fossee.in/" target="_blank">
-          <img src="https://static.fossee.in/fossee/banners/webbnr-03.gif">
+           <a href="https://oshw26.fossee.in/" target="_blank">
+          <img src="https://static.fossee.in/fossee/banners/oshwWebbnr.gif">
            </a>
+          
            <!-- <a class="nice-text" href="https://fossee.in/Semester-Internship/Autumn/2025" target="_blank">
           <img src="https://static.fossee.in/fossee/banners/Webbnr-05.gif">
            </a>
