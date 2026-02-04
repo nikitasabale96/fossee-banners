@@ -16,7 +16,7 @@ echo '   <link rel="stylesheet" type="text/css" href="https://fossee.in/data/ban
            </a>
 
            <a class="nice-text" href="https://fossee.in/semester-internship/2026" target="_blank">
-          <img src="https://static.fossee.in/fossee/banners/sli-2026-banner-2.gif">
+          <img src="https://static.fossee.in/fossee/banners/webbnr-03.gif">
            </a>
 
           
